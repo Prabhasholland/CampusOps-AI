@@ -1,0 +1,80 @@
+[
+  {
+    "student_number": "220012345",
+    "name": "Tunga Amutenya",
+    "phone": "+264811234567",
+    "registration_status": "registered",
+    "fee_balance": 2340.00,
+    "subjects": [
+      {"code": "CSC612S", "name": "Software Engineering", "drop_deadline": "2026-09-05"}
+    ]
+  },
+  {
+    "student_number": "220023456",
+    "name": "Maria Nghipandulwa",
+    "phone": "+264812345678",
+    "registration_status": "registered",
+    "fee_balance": 0.00,
+    "subjects": [
+      {"code": "MAT621S", "name": "Numerical Methods", "drop_deadline": "2026-09-10"}
+    ]
+  },
+  {
+    "student_number": "220034567",
+    "name": "Josef Kambala",
+    "phone": "+264813456789",
+    "registration_status": "registered",
+    "fee_balance": 0.00,
+    "subjects": [
+      {"code": "ACC611S", "name": "Accounting II", "drop_deadline": "2026-09-08"}
+    ]
+  },
+  {
+    "student_number": "220045678",
+    "name": "Anna Shikongo",
+    "phone": "+264814567890",
+    "registration_status": "registered",
+    "fee_balance": 450.00,
+    "subjects": [
+      {"code": "STA601S", "name": "Statistics I", "drop_deadline": "2026-09-01"}
+    ]
+  },
+  {
+    "student_number": "220056789",
+    "name": "Ndeshi Iyambo",
+    "phone": "+264815678901",
+    "registration_status": "registered",
+    "fee_balance": 0.00,
+    "subjects": [
+      {"code": "ELE603S", "name": "Circuit Theory", "drop_deadline": "2026-08-15"}
+    ]
+  },
+  {
+    "student_number": "220067890",
+    "name": "Petrus Amadhila",
+    "phone": "+264816789012",
+    "registration_status": "incomplete_registration",
+    "fee_balance": 1200.00,
+    "subjects": []
+  },
+  {
+    "student_number": "220078901",
+    "name": "Selma Iileka",
+    "phone": "+264817890123",
+    "registration_status": "registered",
+    "fee_balance": 0.00,
+    "subjects": [
+      {"code": "LAW601S", "name": "Introduction to Law", "drop_deadline": "2026-09-12"}
+    ]
+  },
+  {
+    "student_number": "220089012",
+    "name": "Frieda Nangolo",
+    "phone": "+264818901234",
+    "registration_status": "registered",
+    "fee_balance": 0.00,
+    "subjects": [
+      {"code": "ARC605S", "name": "Architectural Design III", "drop_deadline": "2026-09-07"}
+    ]
+  }
+]

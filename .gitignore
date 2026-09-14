@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.db
+campusops.db
+ringback.db
+.env
+.pytest_cache/
+
+node_modules/
+web/node_modules/
+web/dist/
+
+context/
+feedback-log.md
+design-reference/

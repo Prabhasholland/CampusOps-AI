@@ -1,0 +1,46 @@
+[
+  {
+    "office_key": "scholarship",
+    "name": "Institutional Scholarship & Financial Aid Bureau",
+    "department": "Student Financial Services",
+    "officer_name": "Ms. Hilma Shipanga",
+    "phone": "+264811234567",
+    "email": "scholarships@nust.na",
+    "location": "Administration Building, Ground Floor, Wing B",
+    "hours": "Mon-Fri 08:00 - 16:30",
+    "handles": "Scholarship status, bursary disbursements, financial verification, external funder liaison"
+  },
+  {
+    "office_key": "registrar",
+    "name": "Office of the Registrar",
+    "department": "Academic Administration",
+    "officer_name": "Mr. David Katonyala",
+    "phone": "+264812345678",
+    "email": "registrar@nust.na",
+    "location": "Administration Building, 1st Floor",
+    "hours": "Mon-Fri 07:30 - 16:30",
+    "handles": "Enrollment status, official letters, proof of registration, academic record verification"
+  },
+  {
+    "office_key": "fci_department",
+    "name": "Faculty of Computing & Informatics Department Office",
+    "department": "Computer Science Administration",
+    "officer_name": "Ms. Rachel Shilongo",
+    "phone": "+264816789012",
+    "email": "fci-admin@nust.na",
+    "location": "FCI Building, Room 101",
+    "hours": "Mon-Fri 08:00 - 16:00",
+    "handles": "Advising meeting schedules, committee room bookings, subject approvals, prerequisite waivers"
+  },
+  {
+    "office_key": "fees",
+    "name": "Student Fees & Cashier Office",
+    "department": "Finance Department",
+    "officer_name": "Mr. Paulus Nangolo",
+    "phone": "+264813456789",
+    "email": "studentfees@nust.na",
+    "location": "Administration Building, Cashier Hall",
+    "hours": "Mon-Fri 08:00 - 15:30",
+    "handles": "Tuition balances, payment arrangements, statement reconciliation, clearance holds"
+  }
+]

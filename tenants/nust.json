@@ -1,0 +1,65 @@
+{
+  "id": "nust",
+  "name": "Namibia University of Science and Technology",
+  "short_name": "NUST",
+  "spoken_name": "Nahst",
+  "city": "Windhoek",
+  "region": "NA",
+  "locale": "en-NA",
+  "currency": "N$",
+  "calling_office": "Campus Operations & Registrar",
+  "agent_intro": "You are calling on behalf of NUST Autonomous Campus Operations in Windhoek.",
+  "tone_instruction": "Speak warmly, plainly, and professionally. Never rush the caller, and never guess at unverified information.",
+  "office_hours": "Monday to Friday, 08:00 to 17:00",
+  "offices": {
+    "scholarship": {
+      "name": "Institutional Scholarship & Financial Aid Bureau",
+      "contact": "Ms. Hilma Shipanga",
+      "email": "scholarships@nust.na",
+      "location": "Admin Building, Ground Floor, Wing B",
+      "handles": "scholarship status, bursary disbursements, financial verification, funding clearances"
+    },
+    "fci_department": {
+      "name": "Faculty of Computing & Informatics Department Office",
+      "contact": "Ms. Rachel Shilongo",
+      "email": "fci-admin@nust.na",
+      "location": "FCI Building, Room 101",
+      "handles": "academic advising coordination, room reservations, curriculum petitions, prerequisite waivers"
+    },
+    "registrar": {
+      "name": "Registrar's Office",
+      "contact": "S. Kandjii",
+      "email": "registrar@nust.na",
+      "location": "Admin Building, Ground Floor",
+      "handles": "registration, applications, admissions, general administration"
+    },
+    "fees": {
+      "name": "Fees Office",
+      "contact": "M. Iyambo",
+      "email": "fees@nust.na",
+      "location": "Admin Building, Ground Floor",
+      "handles": "balances, payments, payment arrangements, refunds, fee clearances"
+    },
+    "accommodation": {
+      "name": "Student Accommodation Office",
+      "contact": "T. Nakale",
+      "email": "accommodation@nust.na",
+      "location": "Admin Building, Second Floor",
+      "handles": "student housing and residence - NOT disability accommodations"
+    },
+    "student_support": {
+      "name": "Student Support Services",
+      "contact": "L. Amwaama",
+      "email": "studentsupport@nust.na",
+      "location": "Student Centre, First Floor",
+      "handles": "counselling, disability accommodations (exams, access), wellbeing, distressed callers"
+    },
+    "it_support": {
+      "name": "IT Service Desk",
+      "contact": "ICT Helpdesk",
+      "email": "ithelp@nust.na",
+      "location": "Library Building, Ground Floor",
+      "handles": "portal logins, password resets, technical issues"
+    }
+  }
+}

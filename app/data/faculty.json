@@ -1,0 +1,38 @@
+[
+  {
+    "faculty_id": "FAC-001",
+    "name": "Dr. Johannes Alweendo",
+    "title": "Senior Lecturer & Academic Advisor",
+    "department": "Computer Science",
+    "faculty": "Faculty of Computing and Informatics",
+    "phone": "+264815678901",
+    "email": "jalweendo@nust.na",
+    "office_location": "FCI Building, Room 302",
+    "advising_hours": "Tuesdays & Thursdays 14:00 - 16:30",
+    "preferred_contact_method": "phone"
+  },
+  {
+    "faculty_id": "FAC-002",
+    "name": "Prof. Martha Shifotoka",
+    "title": "Head of Department & Graduate Supervisor",
+    "department": "Civil and Environmental Engineering",
+    "faculty": "Faculty of Engineering and the Built Environment",
+    "phone": "+264816789012",
+    "email": "mshifotoka@nust.na",
+    "office_location": "FEBE Block B, Room 114",
+    "advising_hours": "Wednesdays 10:00 - 13:00",
+    "preferred_contact_method": "phone"
+  },
+  {
+    "faculty_id": "FAC-003",
+    "name": "Dr. Eliazer Shikongo",
+    "title": "Associate Professor & Curriculum Coordinator",
+    "department": "Accounting and Finance",
+    "faculty": "Faculty of Management Sciences",
+    "phone": "+264817890123",
+    "email": "eshikongo@nust.na",
+    "office_location": "HP-GSB Building, Level 2",
+    "advising_hours": "Mondays & Fridays 09:00 - 11:30",
+    "preferred_contact_method": "phone"
+  }
+]

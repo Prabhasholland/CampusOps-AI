@@ -1,0 +1,27 @@
+{
+  "id": "unam",
+  "name": "University of Namibia",
+  "short_name": "UNAM",
+  "city": "Windhoek",
+  "region": "NA",
+  "locale": "en-NA",
+  "currency": "N$",
+  "calling_office": "Registrar's Office",
+  "agent_intro": "You are calling on behalf of the UNAM Registrar's Office in Windhoek.",
+  "tone_instruction": "Speak warmly, plainly, and without blame.",
+  "office_hours": "Monday to Friday, 08:00 to 17:00",
+  "offices": {
+    "registrar": {
+      "name": "Registrar's Office",
+      "contact": "Registrar's Office",
+      "email": "registrar@unam.na",
+      "location": "Main Campus Admin Block"
+    },
+    "fees": {
+      "name": "Student Finance",
+      "contact": "Student Finance",
+      "email": "finance@unam.na",
+      "location": "Main Campus Admin Block"
+    }
+  }
+}

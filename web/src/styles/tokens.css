@@ -1,0 +1,72 @@
+:root {
+  /* Surface & Base */
+  --canvas: #f8fafc;
+  --canvas-subtle: #f1f5f9;
+  --card: #ffffff;
+  --card-hover: #fafafa;
+  --white: #ffffff;
+  --border: #e2e8f0;
+  --border-focus: #6366f1;
+  --border-subtle: #f1f5f9;
+
+  /* Typography & Neutral Ink */
+  --ink: #0f172a;
+  --ink-secondary: #334155;
+  --grey600: #64748b;
+  --grey400: #94a3b8;
+  --grey200: #e2e8f0;
+  --grey100: #f8fafc;
+
+  /* Brand Accents - Electric Indigo & Royal Blue */
+  --primary: #4f46e5;
+  --primary-hover: #4338ca;
+  --primary-active: #3730a3;
+  --primary-gradient: linear-gradient(135deg, #4f46e5 0%, #3b82f6 100%);
+  --primary-glow: 0 4px 14px 0 rgba(79, 70, 229, 0.35);
+  --primary-tint: #eef2ff;
+  --primary-subtle: #e0e7ff;
+
+  /* Functional Status Colors */
+  --green: #10b981;
+  --green-deep: #059669;
+  --green-tint: #ecfdf5;
+  --green-border: #a7f3d0;
+  --green-glow: 0 0 12px rgba(16, 185, 129, 0.3);
+
+  --amber: #f59e0b;
+  --amber-deep: #d97706;
+  --amber-tint: #fffbeb;
+  --amber-border: #fde68a;
+
+  --red: #ef4444;
+  --red-deep: #dc2626;
+  --red-tint: #fef2f2;
+  --red-border: #fecaca;
+
+  --blue: #3b82f6;
+  --blue-tint: #eff6ff;
+  --blue-border: #bfdbfe;
+
+  --purple: #8b5cf6;
+  --purple-tint: #f5f3ff;
+  --purple-border: #ddd6fe;
+
+  /* Geometry & Border Radius */
+  --r-panel: 20px;
+  --r-card: 14px;
+  --r-input: 10px;
+  --r-pill: 9999px;
+  --r-badge: 6px;
+
+  /* Shadows & Depth */
+  --shadow-xs: 0 1px 2px 0 rgba(15, 23, 42, 0.05);
+  --shadow-sm: 0 1px 3px 0 rgba(15, 23, 42, 0.08), 0 1px 2px -1px rgba(15, 23, 42, 0.08);
+  --shadow-md: 0 4px 12px -2px rgba(15, 23, 42, 0.08), 0 2px 6px -2px rgba(15, 23, 42, 0.04);
+  --shadow-lg: 0 10px 25px -5px rgba(15, 23, 42, 0.1), 0 8px 10px -6px rgba(15, 23, 42, 0.05);
+  --shadow-xl: 0 20px 30px -10px rgba(15, 23, 42, 0.12), 0 10px 15px -8px rgba(15, 23, 42, 0.06);
+
+  /* Typography */
+  --font-head: 'Plus Jakarta Sans', 'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace;
+}
