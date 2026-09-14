@@ -8,9 +8,9 @@ flowchart TD
     
     Planner --> Workflows{"Workflow Orchestration Engine"}
     
-    Workflows -->|Workflow 1: Verify| VerFlow["Status Verification Flow"]
-    Workflows -->|Workflow 2: Coordinate| CoordFlow["Multi-Party Coordination Flow"]
-    Workflows -->|Workflow 3: Escalate| EscFlow["Human Escalation Flow"]
+    Workflows -->|"Workflow 1: Verify"| VerFlow["Status Verification Flow"]
+    Workflows -->|"Workflow 2: Coordinate"| CoordFlow["Multi-Party Coordination Flow"]
+    Workflows -->|"Workflow 3: Escalate"| EscFlow["Human Escalation Flow"]
     
     VerFlow --> CalleExec["CALL-E Phone Dispatcher<br/>(Dynamic JSON Schemas + E.164 + Retries)"]
     CoordFlow --> CalleExec
@@ -22,9 +22,9 @@ flowchart TD
     
     Verifier --> Decision{"Verification Decision"}
     
-    Decision -->|Verified (Score >= 0.85)| CaseResolved["CASE RESOLVED ✓<br/>(Updated in SIS & Records)"]
-    Decision -->|Incomplete Facts| RetryStep["Second Targeted Call / Step Advancement"]
-    Decision -->|Policy Blocker / Conflict| HumanEscalation["Human Escalation Packet<br/>• Root Cause Analysis<br/>• Key Transcript Quotes<br/>• Actionable Staff Recommendations"]
+    Decision -->|"Verified (Score >= 0.85)"| CaseResolved["CASE RESOLVED ✓<br/>(Updated in SIS & Records)"]
+    Decision -->|"Incomplete Facts"| RetryStep["Second Targeted Call / Step Advancement"]
+    Decision -->|"Policy Blocker / Conflict"| HumanEscalation["Human Escalation Packet<br/>• Root Cause Analysis<br/>• Key Transcript Quotes<br/>• Actionable Staff Recommendations"]
     
     RetryStep --> CalleExec
     HumanEscalation --> StaffInbox["Staff Review Queue"]
